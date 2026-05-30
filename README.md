@@ -45,7 +45,7 @@
 
   <!-- BI & Excel Tools -->
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://component-land.github.io/logos/powerbi.svg" alt="powerbi" width="40" height="40"/>
 </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/373589/excel.svg" alt="excel" width="40" height="40"/>

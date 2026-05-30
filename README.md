@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="machine-learning" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="machine-learning" height="35"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://matplotlib.org/_static/logo_dark.svg" alt="matplotlib" width="40" height="40"/>
@@ -45,7 +45,7 @@
 
   <!-- BI & Excel Tools -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354201/powerbi.svg" alt="powerbi" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="powerbi" height="35"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/373589/excel.svg" alt="excel" width="40" height="40"/>

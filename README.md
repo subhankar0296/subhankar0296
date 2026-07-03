@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm @subhankar0296</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+## Hi there 👋 I'm Subhankar Mondal
 
-- 👀 I’m interested in **Machine Learning, Python, SQL, Excel and Power BI**
+A passionate **Data Analyst** from India with over 8 years of experience in operations and team leadership, currently transitioning into data analytics.
 
-- 🌱 I’m currently learning **and exploring various aspects in Data Analytics fields.**
+👀 **Interests:** Data Analytics, Python, SQL, Power BI, Excel, Machine Learning, and Business Intelligence
 
-- 👯 I’m looking to collaborate on **projects related to Machine Learning and Data Analytics.**
+🌱 **Currently Learning:** Advanced analytics, time series forecasting, and machine learning techniques to solve real-world business problems.
 
-- 📫 How to reach me **subhankar.mondal0296@gmail.com**
+💼 **Portfolio Focus:** Building end-to-end analytics projects using Python, SQL, Power BI, and Excel to transform data into actionable business insights.
 
-- ⚡ Fun fact **Coding and Analysing Data isn't everything—taking time off to recharge is equally important. However, I don't stress much if I want to work on something fun over the weekend as long as I enjoy it.**
+🤝 **Open to Collaborate:** Data Analytics, Business Intelligence, Dashboard Development, and Machine Learning projects.
+
+📫 **Reach Me:** [subhankar.mondal0296@gmail.com](mailto:subhankar.mondal0296@gmail.com)
+
+⚡ **Fun Fact:** I enjoy solving business problems with data, and I believe continuous learning and curiosity are just as important as writing code.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

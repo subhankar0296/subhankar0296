@@ -8,7 +8,7 @@ Data Analyst passionate about transforming data into actionable business insight
 
 💼 **Portfolio Focus:** Building end-to-end analytics projects using Python, SQL, Power BI, and Excel to transform data into actionable business insights.
 
-🤝 **Open to Collaborate:** Data Analytics, Business Intelligence, Dashboard Development, and Machine Learning projects.
+🤝 **Open to Collaborate:** Data Analytics, Business Intelligence, Dashboard Development, SQL, Power BI, Python, and Machine Learning projects.
 
 📫 **Reach Me:** [subhankar.mondal0296@gmail.com](mailto:subhankar.mondal0296@gmail.com)
 

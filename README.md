@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Subhankar Mondal
 
-A passionate **Data Analyst** from India with over 9 years of experience in operations and team leadership, currently transitioning into data analytics.
+Data Analyst passionate about transforming data into actionable business insights. Bringing 9+ years of experience in operations, performance analytics, and business reporting, with expertise in SQL, Python, Power BI, and Excel.
 
 👀 **Interests:** Data Analytics, Python, SQL, Power BI, Excel, Machine Learning, and Business Intelligence
 
